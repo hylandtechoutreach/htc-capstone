@@ -1,0 +1,2 @@
+I want to make a deep-learning neural network that a user can interact with in some way, primarily as a chatbot, or an AI in a game.
+My first option is to use it as a chatbot, but if I work on another project, I would want to combine it.
