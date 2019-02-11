@@ -1,0 +1,6 @@
+Clayton Sandham
+
+Project idea:
+Mailbox listener that can take ideas sent in an email or text and turn it into notes or todo items stored in a database.
+If scope allows, create a web UI to read the database and display the notes in a list or grid.
+Dream goal: Print list out on thermal paper
