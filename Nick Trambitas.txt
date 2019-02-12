@@ -1,0 +1,2 @@
+My project idea: Make a smartphone app using Xamarin Forms that will let me control functions
+of my car over the internet (app sends commands to a remote raspberry pi installed in car that will in turn execute commands)
