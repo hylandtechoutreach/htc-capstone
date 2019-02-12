@@ -1,0 +1,1 @@
+My idea is to create a xamarin app that uses an ocr to scan and format pictures of vocab into flash cards. 
