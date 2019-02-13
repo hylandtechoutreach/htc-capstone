@@ -1,0 +1,2 @@
+Idea:
+    My idea is to create a game that has 3D graphics but a 2D field of gameplay.
